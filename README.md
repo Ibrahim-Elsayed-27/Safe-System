@@ -12,15 +12,13 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 
 ## Features
 
-- **Secure Money Storage**: The system ensures that your money is kept safe from theft or loss, offering peace of mind.
+- **Initial Password Setup**: Easily set up your unique password the first time you use the safe, ensuring exclusive access to your savings.
 
-- **User-Friendly Interface**: With an easy-to-use interface, users can effortlessly deposit and withdraw money.
+- **Persistent Password Storage**: Your password remains intact even in the event of a power outage, ensuring uninterrupted access to your funds.
 
-- **Goal Setting**: Set financial goals and track your progress towards achieving them, promoting better financial planning.
+- **Secure User Authentication**: Access the safe by entering your password, guaranteeing that only authorized users can manage their savings.
 
-- **Transaction History**: Keep a detailed record of all transactions, helping users monitor their financial activities.
-
-- **Password Protection**: The system requires an authorized password for access, ensuring that only authorized users can manage savings.
+- **Intrusion Alert System**: Should an incorrect password be entered twice consecutively, the system activates an alarm, deterring unauthorized access.
 
 ## Hardware Requirements
 
