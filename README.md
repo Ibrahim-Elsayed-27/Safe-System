@@ -22,15 +22,16 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 
 ## Hardware Requirements
 
-- Microcontroller (e.g., Arduino, Raspberry Pi)
+- ATmega32
 - LCD Display
 - Keypad
-- Electronic Lock or Mechanism
-- Cash Slot
+- LEDs
 - Buzzer
 - Battery or Power Supply
 
 
 ## Drivers used
+- **HAL**: LCD - Keypad - Buzzer - Led
+- **MCAL** : DIO - EEPROM
 
 ## Scenarios
