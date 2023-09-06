@@ -35,5 +35,5 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - **MCAL** : DIO - EEPROM
 
 ## Scenarios
-- **Scenario one**: The safe is used for the first time ![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1yLwNyfGhB9suJ4tVl_KSt99sMm5msA7g/view?usp=drive_link)https://drive.google.com/file/d/1yLwNyfGhB9suJ4tVl_KSt99sMm5msA7g/view?usp=drive_link)
+- **Scenario one**: The safe is used for the first time ![alt text](screenshots/scen1-1.png)
 - 
