@@ -6,11 +6,8 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - [Introduction](#introduction)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Drivers used](#drivers-used)
+- [Scenarios](#Scenarios)
 
 ## Introduction
 
@@ -39,3 +36,8 @@ The Safe Money Saving System is an embedded systems project designed to provide 
 - Cash Slot
 - Buzzer
 - Battery or Power Supply
+
+
+## Drivers used
+
+## Scenarios
