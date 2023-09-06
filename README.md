@@ -3,29 +3,24 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Drivers used](#drivers-used)
 - [Scenarios](#Scenarios)
 
-## Introduction
 
-The Safe Money Saving System is an embedded systems project designed to provide a secure and user-friendly way to manage and save money. It ensures that your hard-earned cash is safe and easily accessible when needed. This project is developed using microcontroller technology and various hardware components, offering an innovative solution for saving money securely.
 
 ## Features
 
-- **Secure Money Storage:** Safely store your money within the system, protecting it from theft or loss.
+- **Secure Money Storage**: The system ensures that your money is kept safe from theft or loss, offering peace of mind.
 
-- **User-Friendly Interface:** Easy-to-use interface for depositing and withdrawing money.
+- **User-Friendly Interface**: With an easy-to-use interface, users can effortlessly deposit and withdraw money.
 
-- **Goal Setting:** Set financial goals and track your progress toward achieving them.
+- **Goal Setting**: Set financial goals and track your progress towards achieving them, promoting better financial planning.
 
-- **Transaction History:** Keep a record of all transactions for better financial management.
+- **Transaction History**: Keep a detailed record of all transactions, helping users monitor their financial activities.
 
-- **Password Protection:** Ensure that only authorized users can access and manage the savings.
-
-- **Low-Cost Solution:** An affordable way to manage and save money without relying on traditional banking services.
+- **Password Protection**: The system requires an authorized password for access, ensuring that only authorized users can manage savings.
 
 ## Hardware Requirements
 
