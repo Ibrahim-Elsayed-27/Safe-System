@@ -6,13 +6,13 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Drivers used](#drivers-used)
-- [Scenarios](#Scenarios)
+
 
 
 
 ## Features
 
-- **Initial Password Setup**: Easily set up your unique password the first time you use the safe, ensuring exclusive access to your savings.
+- **Initial Password Setup**: Easily set up your unique password (4 Digits) the first time you use the safe, ensuring exclusive access to your savings.
 
 - **Persistent Password Storage**: Your password remains intact even in the event of a power outage, ensuring uninterrupted access to your funds.
 
@@ -34,6 +34,4 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - **HAL**: LCD - Keypad - Buzzer - Led
 - **MCAL** : DIO - EEPROM
 
-## Scenarios
-- **Scenario one**: The safe is used for the first time ![alt text](screenshots/scen1-1.png)
-- 
+
