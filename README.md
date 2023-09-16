@@ -6,6 +6,7 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Drivers used](#drivers-used)
+- [Scenarios](#Scenarios)
 
 
 
@@ -29,9 +30,18 @@ The Safe Money Saving System is a secure system designed to make saving money ea
 - Buzzer
 - Battery or Power Supply
 
-
-## Drivers used
+- ## Drivers used
 - **HAL**: LCD - Keypad - Buzzer - Led
 - **MCAL** : DIO - EEPROM
+
+
+- ## Scenarios
+
+
+https://github.com/Ibrahim-Elsayed-27/Safe-System/assets/95621621/40a77e54-a4d0-4984-a480-b9883469a928
+
+
+
+
 
 
